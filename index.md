@@ -4,7 +4,7 @@ title: Chaitali Joshi
 viewport: width=device-width, initial-scale=1, shrink-to-fit=no
 ---
 
-![](img/photo.jpg){style="float:right; width:275px; height:400px; margin:30px"}
+![](img/websitephoto.jpg){style="float:right; width:275px; height:400px; margin:30px"}
 I am a Postdoctoral Scholar in the Electrical Engineering department and at the Institute of Quantum Information and Matter (IQIM) at Caltech. I obtained my PhD from Cornell University in 2020 and my bachelors from the Indian Institute of Technology Bombay. 
 
 ## Contact
